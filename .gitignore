@@ -1,5 +1,5 @@
 .editorconfig
 .vs/
-./bin/
-./obj/
+./bin
+sp API/obj
 .gitattributes
